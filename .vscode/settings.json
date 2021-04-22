@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "G:\\Anaconda\\envs\\torch\\python.exe",
+    "python.pythonPath": "G:\\Anaconda3\\envs\\d2l\\python.exe",
     "jupyter.jupyterServerType": "local",
     "sqltools.connections": [
         {
